@@ -1,4 +1,5 @@
-# Deep-Renormalization
+# Deep Renormalization
+_ Josh Broomberg, Yoav Rabinovich_
 
 This project probes the role which renormalization plays in the operation of (certain) deep neural networks.
 It builds on work by Mehta & Schwab (2014), proving the equivalence of training deep belief networks to variational block spin renormalization on the 2D Ising model, and Alexandrou et al. (2019), training an autoencoder on Ising model equilibrium states and showing how the encoded states contain information about the phase transition. It was done in as a final project for our junior undergraduate courses in simulation and in statistical mechanics, and due to this being a collaboration, two reports were written.
